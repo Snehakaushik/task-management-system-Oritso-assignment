@@ -114,7 +114,23 @@ The database schema is generated automatically using **Spring Data JPA entity cl
 
 ---
 
-## 8. Application Architecture
+## 8.  ER Diagram
+
+The ER diagram for the database design is included in the repository.
+
+**Location:**  
+`docs/ER Diagram.drawio.png`
+
+---
+
+## 9. Application Screenshots
+
+Screenshots demonstrating the working of the application are available in:
+`docs/`
+
+---
+
+## 10. Application Architecture
 
 The application follows **MVC architecture**.
 
@@ -135,7 +151,7 @@ Database
  
 ---
 
-## 9. Frontend Structure
+## 11. Frontend Structure
 
 Frontend is implemented using:
 
@@ -147,7 +163,7 @@ The frontend acts as a **Single Page Application (SPA)** which communicates with
 
 ---
 
-## 10. API Endpoints
+## 12. API Endpoints
 
 | Method | Endpoint | Description |
 |-------|----------|-------------|
@@ -159,7 +175,7 @@ The frontend acts as a **Single Page Application (SPA)** which communicates with
 
 ---
 
-## 11. Build and Installation
+## 13. Build and Installation
 
 ### Environment Requirements
 - Java 17+
@@ -182,7 +198,7 @@ Open: `frontend/index.html` in your browser.
 
 ---
 
-## 12. Demo Workflow
+## 14. Demo Workflow
 
 1. Create task  
 2. View tasks  
@@ -194,8 +210,8 @@ All operations are performed through **REST API integration**.
 
 ---
 
-## 13. Conclusion
+## 15. Conclusion
 
-This project demonstrates the development of a **full-stack task management application** implementing CRUD operations and search functionality using modern web technologies.
+This project demonstrates the implementation of a full-stack Task Management System using Java Spring Boot, MySQL, and a web-based frontend.
 
-The system follows **MVC architecture** and demonstrates understanding of backend development, database design, and frontend integration.
+The application follows MVC architecture and provides full CRUD functionality along with search capability. The project showcases skills in backend development, REST API design, database management, and frontend integration.
