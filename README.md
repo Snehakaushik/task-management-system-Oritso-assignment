@@ -1,4 +1,4 @@
-# Task Management System – Oritso Assignment
+# Task Management System
 
 ---
 
